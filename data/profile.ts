@@ -19,12 +19,12 @@ export const profile = {
     zh: "旅游、休闲与可持续行为方向研究者"
   },
   tagline: {
-    en: "Exploring how emotion, nature, technology, and tourism experiences shape responsible human behavior.",
-    zh: "关注情绪、自然、技术与旅游体验如何塑造负责任的人类行为。"
+    en: "Examining how self-transformative emotions and emerging technology experiences shape responsible human behavior.",
+    zh: "关注自我变革情感和新兴技术体验如何影响人类的责任行为。"
   },
   narrative: {
-    en: "My research examines how tourism and recreation experiences, emotional mechanisms, emerging technologies, and decision environments shape responsible human behavior.",
-    zh: "我的研究关注旅游与休闲体验、情绪机制、新兴技术与决策环境如何共同塑造负责任的人类行为。"
+    en: "My research examines how self-transformative emotions, emerging technology experiences, tourism and recreation contexts, and decision environments shape responsible human behavior.",
+    zh: "我的研究关注自我变革情感、新兴技术体验、旅游休闲情境与决策环境如何共同影响人类的责任行为。"
   },
   portrait: {
     src: "/images/profile/runze-gao-corridor-portrait.jpg",

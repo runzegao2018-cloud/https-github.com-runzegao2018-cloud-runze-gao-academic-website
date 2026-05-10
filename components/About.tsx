@@ -11,10 +11,6 @@ export default function About({ lang }: { lang: Lang }) {
           lang={lang}
           eyebrow={{ en: "About", zh: "关于" }}
           title={{ en: "A Research Trajectory Across Places, Disciplines, and Questions", zh: "跨越地域、学科与问题意识的研究路径" }}
-          intro={{
-            en: "The website presents a concise scholarly profile rather than a CV transcript, foregrounding intellectual development and current research direction.",
-            zh: "本网站以学术叙事而非简历复刻的方式，呈现个人学术成长与当前研究方向。"
-          }}
         />
         <div className="grid gap-10 lg:grid-cols-[1.3fr_0.7fr]">
           <div className="space-y-6 text-base leading-8 text-charcoal/80">

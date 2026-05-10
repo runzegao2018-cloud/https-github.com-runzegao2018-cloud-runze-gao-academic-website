@@ -77,7 +77,7 @@ export const researchStreams = [
       en: "Includes a published article on generative AI risk governance and ongoing computational work in tourism and hospitality consumer research.",
       zh: "包括一篇生成式人工智能风险治理论文，以及旅游与酒店消费者研究中的持续计算方法探索。"
     },
-    publicationIds: ["gai-governance", "atr-note", "manure-resource"]
+    publicationIds: ["gai-governance", "manure-resource"]
   }
 ].map((stream) => ({
   ...stream,

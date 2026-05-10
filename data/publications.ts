@@ -54,12 +54,12 @@ export const publications: Publication[] = [
   },
   {
     id: "biological-awe",
-    title: "Manuscript on biological awe and animal-friendly behavior in marine tourism",
+    title: "Dancing with Whales: How Biological-Based Awe Shapes Tourists' Animal-Friendly Behavior-Evidence from Scuba Diving Tourism",
     authors: "Gao, R., & Dai, G.",
     venue: "Tourism Review",
     status: ["Major Revision", "Under Review"],
     citation:
-      "Gao, R., & Dai, G. Manuscript on biological awe and animal-friendly behavior in marine tourism. Tourism Review. Major revision.",
+      "Gao, R., & Dai, G. Dancing with Whales: How Biological-Based Awe Shapes Tourists' Animal-Friendly Behavior-Evidence from Scuba Diving Tourism. Tourism Review. Major revision.",
     highlight: {
       en: "Investigates whether biological awe elicited by marine life encounters promotes animal-friendly behavior through small self and connectedness with nature, with anthropomorphism as a boundary condition.",
       zh: "探讨海洋生物接触引发的生物性敬畏是否通过渺小自我与自然联结促进动物友好行为，并考察拟人化的边界作用。"
@@ -82,12 +82,12 @@ export const publications: Publication[] = [
   },
   {
     id: "local-restaurants",
-    title: "Manuscript on locally sourced restaurants and consumer decision-making",
+    title: "What drives consumers to patronize locally sourced restaurants? Integrating moral values and rational choice",
     authors: "Gao, R., & Xu, S.",
     venue: "Journal of Hospitality and Tourism Management",
     status: ["Submitted"],
     citation:
-      "Gao, R., & Xu, S. Manuscript on locally sourced restaurants and consumer decision-making. Journal of Hospitality and Tourism Management. Submitted.",
+      "Gao, R., & Xu, S. What drives consumers to patronize locally sourced restaurants? Integrating moral values and rational choice. Journal of Hospitality and Tourism Management. Submitted.",
     highlight: {
       en: "Integrates Value-Belief-Norm theory and the Theory of Planned Behavior to explain consumers' patronage intention toward locally sourced restaurants.",
       zh: "整合价值-信念-规范理论与计划行为理论，解释消费者对本地食材餐厅的惠顾意向。"
@@ -95,12 +95,12 @@ export const publications: Publication[] = [
   },
   {
     id: "volunteer-cocreation",
-    title: "Manuscript on host-guest relationships and volunteer value co-creation in mega-event tourism",
+    title: "From interaction to co-creation: How host-guest relationships shape volunteers' behavioral intentions in mega-event tourism",
     authors: "Dai, G., & Gao, R.",
     venue: "International Journal of Tourism Research",
     status: ["Submitted", "Under Review"],
     citation:
-      "Dai, G., & Gao, R. Manuscript on host-guest relationships and volunteer value co-creation in mega-event tourism. International Journal of Tourism Research. Submitted.",
+      "Dai, G., & Gao, R. From interaction to co-creation: How host-guest relationships shape volunteers' behavioral intentions in mega-event tourism. International Journal of Tourism Research. Submitted.",
     highlight: {
       en: "Examines how host-guest interactions, emotional bonds, and place-based relationships shape volunteers' value co-creation intentions in mega-event tourism.",
       zh: "考察主客互动、情感纽带与地方关系如何影响大型事件旅游中志愿者的价值共创意向。"
@@ -108,12 +108,12 @@ export const publications: Publication[] = [
   },
   {
     id: "atr-note",
-    title: "Research note on intention-behavior gaps in locally sourced restaurant patronage",
+    title: "When positive evaluations do not translate into visits: Driver reconfiguration in locally sourced restaurants",
     authors: "Gao, R.",
     venue: "Research note / working paper",
     status: ["Working Paper", "Research Note"],
     citation:
-      "Gao, R. Research note on intention-behavior gaps in locally sourced restaurant patronage. Working paper.",
+      "Gao, R. When positive evaluations do not translate into visits: Driver reconfiguration in locally sourced restaurants. Working paper.",
     highlight: {
       en: "Uses XGBoost and SHAP to examine whether the drivers of satisfaction, revisit intention, and actual patronage differ across consumer response stages.",
       zh: "运用 XGBoost 与 SHAP，考察满意度、重访意向与实际惠顾在不同消费者反应阶段中的驱动因素是否发生重构。"
