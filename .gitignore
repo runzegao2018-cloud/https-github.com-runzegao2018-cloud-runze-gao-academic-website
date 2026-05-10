@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+.vercel
+.netlify
+*.log
+Thumbs.db
+.DS_Store
