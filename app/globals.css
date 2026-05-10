@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --font-sans: Arial, "Noto Sans SC", sans-serif;
+  --font-serif: Georgia, "Times New Roman", "Noto Serif SC", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #f8f5ee;
+  color: #26302f;
+}
+
+::selection {
+  background: #d9c79f;
+  color: #123d33;
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-10;
+}
+
+.section-title {
+  @apply font-serif text-3xl font-semibold tracking-normal text-forest sm:text-4xl;
+}
+
+.eyebrow {
+  @apply text-xs font-semibold uppercase tracking-[0.22em] text-gold;
+}
+
+.card {
+  @apply rounded-lg border border-line bg-paper shadow-soft;
+}
+
+.focus-ring {
+  @apply focus:outline-none focus-visible:ring-2 focus-visible:ring-forest focus-visible:ring-offset-2 focus-visible:ring-offset-ivory;
+}
